@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -8,35 +6,13 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="fannews.svg">
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="100.06752"
-     inkscape:cy="589.51873"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="703"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -50,73 +26,66 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="128.96567"
+       id="text861"
        y="108.0206"
-       id="text861"><tspan
-         sodipodi:role="line"
-         id="tspan859"
-         x="128.96567"
-         y="117.38437"
-         style="stroke-width:0.26458332" /></text>
-    <rect
-       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect815"
-       width="193.52382"
-       height="204.10715"
-       x="8.0130949"
-       y="28.636904"
-       rx="1.8891435"
-       ry="1.8898816" />
-    <rect
-       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.73191488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect815-3"
-       width="193.56824"
-       height="37.041672"
-       x="8.0525026"
-       y="27.578569"
-       rx="1.8891433"
-       ry="1.8898817" />
-    <text
-       xml:space="preserve"
+       x="128.96567"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="41.27499"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="117.38437"
+         x="128.96567"
+         id="tspan859" /></text>
+    <rect
+       ry="1.8898816"
+       rx="1.8891435"
+       y="28.636904"
+       x="8.0130949"
+       height="204.10715"
+       width="193.52382"
+       id="rect815"
+       style="opacity:1;fill:#deaa87;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="1.8898817"
+       rx="1.8891433"
+       y="27.578569"
+       x="8.0525026"
+       height="37.041672"
+       width="193.56824"
+       id="rect815-3"
+       style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.73191488;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text834"
        y="44.511898"
-       id="text834"><tspan
-         sodipodi:role="line"
-         id="tspan832"
-         x="41.27499"
+       x="41.27499"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:#fff6d5;stroke-width:0.26458332"
          y="44.511898"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333244px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:#fff6d5;stroke-width:0.26458332">روزنامه فانتزی ایران</tspan></text>
+         x="41.27499"
+         id="tspan832">روزنامه فانتزی ایران</tspan></text>
     <g
-       id="g902"
-       transform="translate(0.5291667,-0.52916667)">
+       transform="translate(0.5291667,-0.52916667)"
+       id="g902">
       <text
-         id="text883"
-         y="36.934757"
-         x="12.343252"
+         xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2b0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:4.58611107px;fill:#2b0000;stroke-width:0.26458332"
-           y="46.298527"
-           x="12.343252"
+         x="12.343252"
+         y="36.934757"
+         id="text883"><tspan
            id="tspan881"
-           sodipodi:role="line" /><tspan
-           id="tspan885"
-           style="font-size:7.76111126px;fill:#2b0000;stroke-width:0.26458332"
-           y="59.527691"
            x="12.343252"
-           sodipodi:role="line">     https://t.me/FOURSTAO</tspan></text>
+           y="46.298527"
+           style="font-size:4.58611107px;fill:#2b0000;stroke-width:0.26458332" /><tspan
+           x="12.343252"
+           y="59.527691"
+           style="font-size:7.76111126px;fill:#2b0000;stroke-width:0.26458332"
+           id="tspan885">     https://t.me/FOURSTAO</tspan></text>
       <image
-         style="fill:#d5e5ff"
-         width="13.298485"
-         height="14.149743"
-         preserveAspectRatio="none"
+         y="49.412163"
+         x="10.054151"
+         id="image895"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAACWCAYAAAA8AXHiAAAABHNCSVQICAgIfAhkiAAAC7ZJREFU
 eJztnWuMlNUZx3+sXMrF5VKxSQOVlhUvrISLxZKagHhJ1BYSDNQPgq1pNBRMrI2lTfRDk6atafqp
 tRcVSoPEom3VBimkRbQm0kK9EHdZ5FKWBUGwgLALwq479sMzww6z78y8lzPznPO+55f8g5J533nO
@@ -172,91 +141,61 @@ HQSmdChfJn/iyQIakLyia4GP0Q+OqDoLPIPcr2g8FaMGaWxiRyA3ds3J61pNYyrQBryK3PW3Cdmv
 lhrSGFiljEU2t83JSyuJyU4kkF4D/gGcULKjLmQhsEoZjiSNa0L2KBXrCuKndupFFtT3BWgP0kVn
 hiwGViUakAXc0QEak//MCeBkgE4R4aZRj8cTg/8DJNoKabyahgcAAAAASUVORK5CYII=
 "
-         id="image895"
-         x="10.054151"
-         y="49.412163" />
+         preserveAspectRatio="none"
+         height="14.149743"
+         width="13.298485"
+         style="fill:#d5e5ff" />
     </g>
     <rect
-       style="opacity:1;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect840"
-       width="178.7643"
-       height="76.187637"
-       x="15.541207"
-       y="95.010216"
+       ry="1.8898816"
        rx="1.8891435"
-       ry="1.8898816" />
+       y="95.010216"
+       x="15.541207"
+       height="76.187637"
+       width="178.7643"
+       id="rect840"
+       style="opacity:1;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="17.243727"
+       id="text865"
        y="167.25218"
-       id="text865"><tspan
-         sodipodi:role="line"
-         id="tspan863"
-         x="17.243727"
+       x="17.243727"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;stroke-width:0.26458332"
          y="167.25218"
-         style="font-size:3.52777767px;stroke-width:0.26458332">Dr.felfel</tspan></text>
+         x="17.243727"
+         id="tspan863">Dr.felfel</tspan></text>
     <path
-       sodipodi:type="star"
-       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path918"
-       sodipodi:sides="5"
-       sodipodi:cx="179.94914"
-       sodipodi:cy="92.04229"
-       sodipodi:r1="20.515429"
-       sodipodi:r2="16.597328"
-       sodipodi:arg1="0.36644818"
-       sodipodi:arg2="0.99476671"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
        d="m 199.10247,99.393003 -20.22557,13.136677 -18.74376,-15.1762 8.64128,-22.516083 24.08437,1.260494 z"
-       inkscape:transform-center-x="0.33134306"
-       inkscape:transform-center-y="1.6412467" />
+       id="path918"
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="163.93626"
+       id="text906"
        y="96.609207"
-       id="text906"><tspan
-         sodipodi:role="line"
-         id="tspan904"
-         x="163.93626"
+       x="163.93626"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'XP Ziba';-inkscape-font-specification:'XP Ziba';fill:#ffffff;stroke-width:0.26458332"
          y="96.609207"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;font-family:'XP Ziba';-inkscape-font-specification:'XP Ziba';fill:#ffffff;stroke-width:0.26458332">داوطلب</tspan></text>
+         x="163.93626"
+         id="tspan904">داوطلب</tspan></text>
     <path
-       sodipodi:type="spiral"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
+       d="m 88.731142,144.86372 c -0.277465,0.0227 -0.555144,0.0427 -0.832988,0.0601"
        id="path910"
-       sodipodi:cx="87.472557"
-       sodipodi:cy="100.65841"
-       sodipodi:expansion="1"
-       sodipodi:revolution="3"
-       sodipodi:radius="44.26749"
-       sodipodi:argument="-17.288374"
-       sodipodi:t0="0.99900001"
-       d="m 88.731142,144.86372 c -0.277465,0.0227 -0.555144,0.0427 -0.832988,0.0601" />
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332" />
     <path
-       sodipodi:type="spiral"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
+       d="m 113.01895,127.54889 c -0.1423,0.25983 -0.28706,0.51831 -0.43425,0.7754"
        id="path912"
-       sodipodi:cx="73.00116"
-       sodipodi:cy="102.78656"
-       sodipodi:expansion="1"
-       sodipodi:revolution="3"
-       sodipodi:radius="47.106606"
-       sodipodi:argument="-18.27659"
-       sodipodi:t0="0.99900001"
-       d="m 113.01895,127.54889 c -0.1423,0.25983 -0.28706,0.51831 -0.43425,0.7754" />
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332" />
     <g
-       id="g1019"
-       transform="matrix(1,0,0,0.92278236,3.1749992,9.6666783)">
+       transform="matrix(1,0,0,0.92278236,3.1749992,9.6666783)"
+       id="g1019">
       <g
          id="g1014">
         <image
-           y="190.78148"
-           x="16.391146"
-           id="image1010"
+           width="62.340107"
+           height="50.904972"
+           preserveAspectRatio="none"
            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAAKjCAYAAABFkMEBAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3XmQZWd55/nfe+5+MyuzdlWVinIhK2RGEATWMGqGwB0aEJhhDI0Z4/ZgOkyDSBXC9IA9NmDG
 4ewgHAIcBHbbZrM9EE3bHje4e7wNzWY2e+zuITw2gRmbEZKQalPtldvdzzt/vJlSViqz8i7nnPc9
@@ -829,14 +768,14 @@ SZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIk
 SZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIk
 SZIkSZIkSZIkSZIkSZf8f+zKzuh97QARAAAAAElFTkSuQmCC
 "
-           preserveAspectRatio="none"
-           height="50.904972"
-           width="62.340107" />
+           id="image1010"
+           x="16.391146"
+           y="190.78148" />
       </g>
       <image
-         width="44.002289"
-         height="56.967197"
-         preserveAspectRatio="none"
+         y="180.01013"
+         x="4.8380957"
+         id="image999"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeAAAAKACAYAAABEyKtSAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsnXecG/WZ/98qK22z17u21+uGe8EdbHChGZtqIKGHAAmBS0Iu/S6X3C8kl3bpuVx6Lj0hIYV0
 ShJ66B0MxjauuPf1rrev+u+PRyPNqK2kVdfzfr3mZc1oJH13rZ3PPB0URVEURVEURVEURVEURVEU
@@ -2123,14 +2062,14 @@ CIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIg
 CIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIg
 CIIgCIIgCIIgiDPx/wEwVI/LKMbcVAAAAABJRU5ErkJggg==
 "
-         id="image999"
-         x="4.8380957"
-         y="180.01013" />
+         preserveAspectRatio="none"
+         height="56.967197"
+         width="44.002289" />
     </g>
     <image
-       y="177.77187"
-       x="154.12131"
-       id="image1040"
+       width="46.357265"
+       height="54.443024"
+       preserveAspectRatio="none"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACWAAAAlgCAYAAAAMTQxuAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzs3W/MrwVdx/H3BXJA8B+oaCKFmOIfTAE9aIWtZj3K1trsgbPW1nK11myt1YPWcq0HMhU6B0RB
 p4gLCheLySgNfSRZLZjVLGZZWSb4X1GRP3KuHvxu7fDX8+d3Xdfvvu/Xa/uNcZ/d1/dzHt7n/uz6
@@ -4480,60 +4419,50 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAMBD7BuR+w0q8HQAAAAASUVORK5CYII=
 "
-       preserveAspectRatio="none"
-       height="54.443024"
-       width="46.357265" />
+       id="image1040"
+       x="154.12131"
+       y="177.77187" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.94377,205.45422 a 6.3499999,6.614583 0 0 1 -6.15395,6.61143 6.3499999,6.614583 0 0 1 -6.53395,-6.20318 6.3499999,6.614583 0 0 1 5.75049,-6.99447 6.3499999,6.614583 0 0 1 6.88903,5.77129"
        id="path1047"
-       sodipodi:type="arc"
-       sodipodi:cx="178.59377"
-       sodipodi:cy="205.45422"
-       sodipodi:rx="6.3499999"
-       sodipodi:ry="6.614583"
-       sodipodi:start="0"
-       sodipodi:end="6.1596684"
-       sodipodi:open="true"
-       d="m 184.94377,205.45422 a 6.3499999,6.614583 0 0 1 -6.15395,6.61143 6.3499999,6.614583 0 0 1 -6.53395,-6.20318 6.3499999,6.614583 0 0 1 5.75049,-6.99447 6.3499999,6.614583 0 0 1 6.88903,5.77129" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.06500006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="175.68333"
+       id="text1045"
        y="208.89384"
-       id="text1045"><tspan
-         sodipodi:role="line"
-         id="tspan1043"
-         x="175.68333"
-         y="208.89384"
-         style="stroke-width:0.26458332">1</tspan></text>
-    <text
-       xml:space="preserve"
+       x="175.68333"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="74.083344"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="208.89384"
+         x="175.68333"
+         id="tspan1043">1</tspan></text>
+    <text
+       id="text1179"
        y="226.09169"
-       id="text1179"><tspan
-         sodipodi:role="line"
-         id="tspan1177"
-         x="74.083344"
+       x="74.083344"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:#000000;stroke-width:0.26458332"
          y="226.09169"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;font-family:Vazir;-inkscape-font-specification:Vazir;fill:#000000;stroke-width:0.26458332">سازمان کل تخیل ایران</tspan></text>
+         x="74.083344"
+         id="tspan1177">سازمان کل تخیل ایران</tspan></text>
     <flowRoot
-       xml:space="preserve"
-       id="flowRoot867"
+       transform="matrix(0.26458333,0,0,0.26458333,1.564541,27.631695)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,1.564541,27.631695)"><flowRegion
-         id="flowRegion869"
-         style="text-align:end;text-anchor:end"><rect
-           id="rect871"
-           width="617.73218"
-           height="214.82352"
-           x="82.042557"
+       id="flowRoot867"
+       xml:space="preserve"><flowRegion
+         style="text-align:end;text-anchor:end"
+         id="flowRegion869"><rect
+           style="text-align:end;text-anchor:end"
            y="309.2681"
-           style="text-align:end;text-anchor:end" /></flowRegion><flowPara
-         id="flowPara875"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Shabnam FD-WOL';-inkscape-font-specification:'Shabnam FD-WOL Bold';text-align:end;text-anchor:end">ذهن تخیلی دارید ؟ نویسنده هستید ؟ از انفجار ذهنی در امان نیستید ؟ به روزنامه فانتزی ایران بپیوندید </flowPara><flowPara
+           x="82.042557"
+           height="214.82352"
+           width="617.73218"
+           id="rect871" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Shabnam FD-WOL';-inkscape-font-specification:'Shabnam FD-WOL Bold';text-align:end;text-anchor:end"
-         id="flowPara1472">روزنامه فانتزی ایران : نویسنده و گرافیست به صورت داوطلب</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Shabnam FD-WOL';-inkscape-font-specification:'Shabnam FD-WOL Bold';text-align:end;text-anchor:end"
-         id="flowPara1476">میپذیرد </flowPara></flowRoot>  </g>
+         id="flowPara875">ذهن تخیلی دارید ؟ نویسنده هستید ؟ از انفجار ذهنی در امان نیستید ؟ به روزنامه فانتزی ایران بپیوندید </flowPara><flowPara
+         id="flowPara1472"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Shabnam FD-WOL';-inkscape-font-specification:'Shabnam FD-WOL Bold';text-align:end;text-anchor:end">روزنامه فانتزی ایران : نویسنده و گرافیست به صورت داوطلب</flowPara><flowPara
+         id="flowPara1476"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Shabnam FD-WOL';-inkscape-font-specification:'Shabnam FD-WOL Bold';text-align:end;text-anchor:end">میپذیرد </flowPara></flowRoot>  </g>
 </svg>
